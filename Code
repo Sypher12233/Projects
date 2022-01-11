@@ -39,3 +39,6 @@ switch (randomNumber){
 } 
 
 userQuestion ? console.log(`The eight ball answered: ${eightBall}`) : console.log('Please enter your question between the two \'\' in the variable userQuestion')
+
+
+/*TWITTER HANDLE:-------AS ALLWAYS, FEEL FREE TO DM ME ON TWITTER @uzairkhan123221 REGARDING ANY ISSUES :) ————*/
