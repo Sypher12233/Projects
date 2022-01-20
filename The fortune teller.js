@@ -2,9 +2,9 @@ let userName = '';//part 1
 let userQuestion = '';//part 3
 const randomNumber = Math.floor(Math.random()*8);//part 5
 let eightBall = '';
-userName ? console.log(`Hello, ${userName}!`) :
-console.log('Hello!');//part 2
-
+  userName ? console.log(`Hello, ${userName}!`) :
+  console.log('Hello!');//part 2
+  
 switch (randomNumber){
   case 0 :
   eightBall = ('Reply hazy try again');
