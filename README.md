@@ -1,3 +1,3 @@
-# The-Fortune-Teller
+# Projects repo;
 
-So after learning some Javascript, I made this repo for projects.
+I will be updating this repo regularly as I make more projects.
