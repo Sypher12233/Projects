@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const team = {
+=======
+ const team = {
+>>>>>>> refs/remotes/origin/main
   _players: [
     {
       firstName: 'Rashid',
@@ -73,4 +77,8 @@ console.log(team.games);
 
 /* TWITTER HANDLE: 
     -------AS ALLWAYS, FEEL FREE TO DM ME ON TWITTER @uzairkhan123221 REGARDING ANY ISSUES :) ————
+<<<<<<< HEAD
 */
+=======
+*/
+>>>>>>> refs/remotes/origin/main
