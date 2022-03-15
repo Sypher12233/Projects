@@ -14,4 +14,4 @@ for (i = 0; i < input.length; i++){
 console.log(resultArray.join('').toUpperCase());
 
 
-/*TWITTER HANDLE: -------AS ALLWAYS, FEEL FREE TO DM ME ON TWITTER @uzairkhan123221 REGARDING ANY ISSUES :) ————*/
+/*TWITTER HANDLE: -------AS ALWAYS, FEEL FREE TO DM ME ON TWITTER @uzairkhan123221 REGARDING ANY ISSUES :) ————*/
